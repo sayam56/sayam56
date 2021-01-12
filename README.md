@@ -33,6 +33,7 @@ Find out more about me & feel free to connect with me:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=plastic&logo=bitbucket)
+![Latex](https://img.shields.io/badge/-LaTeX-%23008080?style=plastic&logo=LaTeX)
 
 
 
