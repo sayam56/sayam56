@@ -14,7 +14,7 @@ Find out more about me & feel free to connect with me here:
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" />
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" />
 
 ## ⚡ Technologies
 
