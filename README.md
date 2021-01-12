@@ -12,7 +12,7 @@ Find out more about me & feel free to connect with me here:
 [![Sayam's github stats](https://github-readme-stats.vercel.app/api?username=sayam56&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=TeX&layout=compact&theme=material-palenight)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=sayam56&theme=material-palenight" />
 
 
 
