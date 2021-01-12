@@ -37,6 +37,9 @@ I'm Ali Iktider Sayam. I am a software engineer with strong technical proficienc
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56)
+
 <!--
 **sayam56/sayam56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
