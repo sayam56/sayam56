@@ -1,4 +1,4 @@
-![I am a Software Engineer](assets/gifs/code.gif)
+<img src='assets/gifs/code.gif' alt='codeGif' height='100'>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56)
 
