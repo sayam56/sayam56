@@ -1,4 +1,4 @@
-<img src='assets/gifs/code.gif' alt='codeGif' height='300'>
+![Header](assets/header/header.png)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56)
 
