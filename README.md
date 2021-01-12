@@ -1,14 +1,13 @@
-### Hi there 👋
-I'm Ali Iktider Sayam. I am a software engineer with strong technical proficiency and a strong work history in Full Stack Web Development and Cross Platform Mobile Application Development.
+## Hi there 👋, I'm Ali Iktider Sayam
+
+![I am a Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am a software engineer with strong technical proficiency and a strong work history in Full Stack Web Development and Cross Platform Mobile Application Development.
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[<img src='assets/icons/github.svg' alt='github' height='40'>](https://github.com/sayam56)  [<img src='assets/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-iktider-sayam/)  [<img src='assets/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aisayam/)  [<img src='assets/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sayam56/)  [<img src='assets/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14703616/ali-iktider-sayam)  [<img src='assets/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UClxr3PyRixkohkelry7yvDQ)  [<img src='assets/icons/icloud.svg' alt='website' height='40'>](https://aisayam.com/)  
 
-
-<a href="https://www.aisayam.com/"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
 
 ## ⚡ Technologies
 
@@ -25,28 +24,15 @@ Find out more about me & feel free to connect with me here:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
+<a href="https://www.aisayam.com/"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
+
+
+
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56)
 
-<!--
-**sayam56/sayam56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Hi there 👋, I'm Ali Iktider Sayam
-#### I am a Software Engineer
-![I am a Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a software engineer with strong technical proficiency and a strong work history in Full Stack Web Development and Cross Platform Mobile Application Development.
 
@@ -57,8 +43,6 @@ I am a software engineer with strong technical proficiency and a strong work his
 - 💬 Ask me about Anything 
 - ⚡ Fun fact: I might be a musician too 
 
-
-[<img src='assets/icons/github.svg' alt='github' height='40'>](https://github.com/sayam56)  [<img src='assets/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-iktider-sayam/)  [<img src='assets/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aisayam/)  [<img src='assets/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sayam56/)  [<img src='assets/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14703616/ali-iktider-sayam)  [<img src='assets/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UClxr3PyRixkohkelry7yvDQ)  [<img src='assets/icons/icloud.svg' alt='website' height='40'>](https://aisayam.com/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
