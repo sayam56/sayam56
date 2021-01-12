@@ -9,8 +9,8 @@ Find out more about me & feel free to connect with me here:
 
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
-[![Sayam's github stats](https://github-readme-stats.vercel.app/api?username=sayam56)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=TeX&layout=compact)
+[![Sayam's github stats](https://github-readme-stats.vercel.app/api?username=sayam56)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=TeX&layout=compact&theme=material-palenight)
 
 
 
