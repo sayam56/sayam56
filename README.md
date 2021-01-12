@@ -10,7 +10,7 @@ Find out more about me & feel free to connect with me here:
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 
-<a href="https://www.aisayam.com/"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
+<a href="https://www.aisayam.com/"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
 
 ## ⚡ Technologies
 
