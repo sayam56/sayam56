@@ -34,7 +34,8 @@ Find out more about me & feel free to connect with me:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=plastic&logo=bitbucket)
 ![Latex](https://img.shields.io/badge/-LaTeX-%23008080?style=plastic&logo=LaTeX)
-![Latex](https://img.shields.io/badge/-AdobeXD-%23008080?style=plastic&logo=Adobe-XD)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-black?style=plastic&logo=Adobe-XD)
+![Trello](https://img.shields.io/badge/-Trello-%230079BF?style=plastic&logo=Trello)
 
 
 
