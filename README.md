@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Ali Iktider Sayam. I am a software engineer with strong technical proficiency and a strong work history in Full Stack Web Development and Cross Platform Mobile Application Development.
 
+[![Sayam's github stats](https://github-readme-stats.vercel.app/api?username=sayam56)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sayam56/sayam56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
