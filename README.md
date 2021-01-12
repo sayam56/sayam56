@@ -13,7 +13,7 @@ Find out more about me & feel free to connect with me here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=TeX&layout=compact&theme=material-palenight)
 
 
-<a href="https://www.aisayam.com/"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=7&theme=material-palenight" /></a>
+<a href="https://www.aisayam.com/"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
 
 ## ⚡ Technologies
 
