@@ -24,6 +24,8 @@ Find out more about me & feel free to connect with me:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass%2FScss-black?style=plastic&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+![Laravel](https://img.shields.io/badge/-Laravel-orange?style=plastic&logo=Laravel)
+![Wordpress](https://img.shields.io/badge/-Wordpress-informational?style=plastic&logo=Wordpress)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
