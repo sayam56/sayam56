@@ -26,9 +26,6 @@ Find out more about me & feel free to connect with me:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-<a href="https://www.aisayam.com/"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
-
-
 - 🔭 I’m currently working on Building My Profile 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Flutter and Laravel 
@@ -36,6 +33,7 @@ Find out more about me & feel free to connect with me:
 - 💬 Ask me about Anything 
 - ⚡ Fun fact: I might be a musician too 
 
+<a href="https://www.aisayam.com/"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayam56&theme=material-palenight)  
 
