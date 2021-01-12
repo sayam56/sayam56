@@ -37,7 +37,5 @@ Find out more about me & feel free to connect with me:
 - ⚡ Fun fact: I might be a musician too 
 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayam56&theme=material-palenight)  
 
