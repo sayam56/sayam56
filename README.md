@@ -27,10 +27,13 @@ Find out more about me & feel free to connect with me:
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=plastic&logo=Laravel)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-informational?style=plastic&logo=Wordpress)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-9cf?style=plastic&logo=SQLite)
+![Android](https://img.shields.io/badge/-Android-lightgrey?style=plastic&logo=Android-Studio)
+![Flutter](https://img.shields.io/badge/-Flutter-green?style=plastic&logo=Flutter)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=plastic&logo=bitbucket)
-![Android](https://img.shields.io/badge/-Android-lightgrey?style=plastic&logo=Android-Studio)
+
 
 
 
