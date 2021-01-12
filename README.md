@@ -13,22 +13,22 @@ Find out more about me & feel free to connect with me:
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=c)
-![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=PHP)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
-![OpenGL](https://img.shields.io/badge/-OpenGL-9cf?style=flat-square&logo=OpenGL)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass%2FScss-red?style=flat-square&logo=Sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Android](https://img.shields.io/badge/-Android-lightgrey?style=flat-square&logo=Android-Studio)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=plastic&logo=java)
+![C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=plastic&logo=c)
+![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=plastic&logo=PHP)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=plastic&logo=Dart)
+![OpenGL](https://img.shields.io/badge/-OpenGL-9cf?style=plastic&logo=OpenGL)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass%2FScss-black?style=plastic&logo=Sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=plastic&logo=bitbucket)
+![Android](https://img.shields.io/badge/-Android-lightgrey?style=plastic&logo=Android-Studio)
 
 
 
