@@ -24,6 +24,8 @@ Find out more about me & feel free to connect with me:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Android](https://img.shields.io/badge/-Android-brightgreen?style=flat-square&logo=Android-Studio)
+
 
 
 - 🔭 I’m currently working on Building My Profile 
