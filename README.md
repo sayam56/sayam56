@@ -1,4 +1,4 @@
-![I am a Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Software Engineer](assets/gifs/code.gif)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56)
 
