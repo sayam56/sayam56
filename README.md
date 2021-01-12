@@ -8,7 +8,7 @@ I am a software engineer with strong technical proficiency and a strong work his
 
 Find out more about me & feel free to connect with me:
 
-[<img src='assets/icons/github.svg' alt='github' height='40'>](https://github.com/sayam56)  [<img src='assets/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-iktider-sayam/)  [<img src='assets/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aisayam/)  [<img src='assets/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sayam56/)  [<img src='assets/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14703616/ali-iktider-sayam)  [<img src='assets/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UClxr3PyRixkohkelry7yvDQ)  [<img src='assets/icons/icloud.svg' alt='website' height='40'>](https://aisayam.com/)  
+[<img src='assets/icons/github.svg' alt='github' height='40'>](https://github.com/sayam56) &nbsp; [<img src='assets/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-iktider-sayam/)  &nbsp;[<img src='assets/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aisayam/)  [<img src='assets/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sayam56/)  [<img src='assets/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14703616/ali-iktider-sayam)  [<img src='assets/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UClxr3PyRixkohkelry7yvDQ)  [<img src='assets/icons/icloud.svg' alt='website' height='40'>](https://aisayam.com/)  
 
 
 ## ⚡ Technologies
