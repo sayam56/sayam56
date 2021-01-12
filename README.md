@@ -36,7 +36,7 @@ Find out more about me & feel free to connect with me:
 ![Latex](https://img.shields.io/badge/-LaTeX-%23008080?style=plastic&logo=LaTeX)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-black?style=plastic&logo=Adobe-XD)
 ![Trello](https://img.shields.io/badge/-Trello-%230079BF?style=plastic&logo=Trello)
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=plastic&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-white?style=plastic&logo=Linux)
 ![CPanel](https://img.shields.io/badge/-cPanel-%23FF6C2C?style=plastic&logo=cPanel)
 
 
