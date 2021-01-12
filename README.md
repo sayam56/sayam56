@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Ali Iktider Sayam. I am a software engineer with strong technical proficiency and a strong work history in Full Stack Web Development and Cross Platform Mobile Application Development.
 
 <!--
 **sayam56/sayam56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
