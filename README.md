@@ -15,7 +15,7 @@ Find out more about me & feel free to connect with me:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=plastic&logo=java)
+![Java](https://img.shields.io/badge/-Java-ff69b4?style=plastic&logo=java)
 ![C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=plastic&logo=c)
 ![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=plastic&logo=PHP)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=plastic&logo=Dart)
@@ -34,6 +34,7 @@ Find out more about me & feel free to connect with me:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=plastic&logo=bitbucket)
 ![Latex](https://img.shields.io/badge/-LaTeX-%23008080?style=plastic&logo=LaTeX)
+![Latex](https://img.shields.io/badge/-AdobeXD-%23008080?style=plastic&logo=Adobe-XD)
 
 
 
