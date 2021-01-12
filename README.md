@@ -22,7 +22,7 @@ Find out more about me & feel free to connect with me:
 ![OpenGL](https://img.shields.io/badge/-OpenGL-9cf?style=flat-square&logo=OpenGL)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass%2FScss-ff69b4?style=flat-square&logo=Sass)
+![Sass](https://img.shields.io/badge/-Sass%2FScss-red?style=flat-square&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
