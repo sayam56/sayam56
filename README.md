@@ -1,10 +1,11 @@
-## Hi there 👋, I'm Ali Iktider Sayam
-
 ![I am a Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56)
+
+## Hi there 👋, I'm Ali Iktider Sayam
 
 I am a software engineer with strong technical proficiency and a strong work history in Full Stack Web Development and Cross Platform Mobile Application Development.
 
-Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect with me:
 
 [<img src='assets/icons/github.svg' alt='github' height='40'>](https://github.com/sayam56)  [<img src='assets/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-iktider-sayam/)  [<img src='assets/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aisayam/)  [<img src='assets/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sayam56/)  [<img src='assets/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14703616/ali-iktider-sayam)  [<img src='assets/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UClxr3PyRixkohkelry7yvDQ)  [<img src='assets/icons/icloud.svg' alt='website' height='40'>](https://aisayam.com/)  
 
@@ -26,15 +27,6 @@ Find out more about me & feel free to connect with me here:
 
 <a href="https://www.aisayam.com/"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
 
-
-
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56)
-
-
-
-I am a software engineer with strong technical proficiency and a strong work history in Full Stack Web Development and Cross Platform Mobile Application Development.
 
 - 🔭 I’m currently working on Building My Profile 
 - 🌱 I’m currently learning Flutter 
