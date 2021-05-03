@@ -48,8 +48,8 @@ Find out more about me & feel free to connect with me:
 
 
 
-- 🔭 I’m currently working on Building My Profile 
-- 🌱 I’m currently learning Flutter 
+- 🔭 I’m currently working on Building A Tech Start-Up
+- 🌱 I’m currently learning Flutter Web
 - 👯 I’m looking to collaborate on Flutter and Laravel 
 - 🤔 I’m looking for help with Node.js 
 - 💬 Ask me about Anything 
