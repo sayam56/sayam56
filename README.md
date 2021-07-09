@@ -46,7 +46,7 @@ Find out more about me & feel free to connect with me:
 ![CPanel](https://img.shields.io/badge/-cPanel-white?style=plastic&logo=cPanel)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-red?style=plastic&logo=MongoDB)
 ![Express.js](https://img.shields.io/badge/-Express.js-blue?style=plastic&logo=Express)
-![React.js](https://img.shields.io/badge/-ReactJS-black?style=plastic&logo=React)
+![React.js](https://img.shields.io/badge/-React-black?style=plastic&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic&logo=Node.js)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=plastic&logo=Jira%20Software)
 ![Confluence](https://img.shields.io/badge/-Confluence-red?style=plastic&logo=Confluence)
