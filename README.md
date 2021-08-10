@@ -48,8 +48,10 @@ Find out more about me & feel free to connect with me:
 ![Express.js](https://img.shields.io/badge/-Express.js-blue?style=plastic&logo=Express)
 ![React.js](https://img.shields.io/badge/-React-black?style=plastic&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic&logo=Node.js)
+![OWASP](https://img.shields.io/badge/-OWASP-black?style=plastic&logo=OWASP)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=plastic&logo=Jira%20Software)
 ![Confluence](https://img.shields.io/badge/-Confluence-red?style=plastic&logo=Confluence)
+
 
 
 
