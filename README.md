@@ -59,7 +59,7 @@ Find out more about me & feel free to connect with me:
 - 🔭 I’m currently working on Building A Tech Start-Up
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Flutter and MERN 
-- 🤔 I’m looking for help with OWASP
+- 🤔 I’m looking for help with MERN
 - 💬 Ask me about Anything 
 - ⚡ Fun fact: I might be a musician too 
 
