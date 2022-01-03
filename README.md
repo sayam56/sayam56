@@ -63,7 +63,7 @@ Find out more about me & feel free to connect with me:
 - 💬 Ask me about Anything 
 - ⚡ Fun fact: I might be a musician too 
 
-<a href="https://www.aisayam.com/"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
+<a href="https://www.aisayam.com/"><img height="168px" src="https://github-readme-stats.vercel.app/api?username=sayam56&hide_title=false&hide_border=true&show_icons=true&line_height=21&theme=material-palenight" /><!-- wi*quL3fcV --><img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam56&hide=html&hide_title=false&hide_border=true&layout=compact&theme=material-palenight" /></a>
 
 
 <p align="center">
