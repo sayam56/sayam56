@@ -6,7 +6,7 @@
   <img width="900px" src="assets/gifs/header.gif" />
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56) ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C031%20hrs%2014%20mins-blue)
 
 ## Hi there 👋, I'm Ali Iktider Sayam
 
@@ -56,10 +56,10 @@ Find out more about me & feel free to connect with me:
 
 
 
-- 🔭 I’m currently working on Building A Tech Start-Up
-- 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on Flutter and MERN 
-- 🤔 I’m looking for help with MERN
+- 🔭 I’m currently working on Growing My Tech Start-Up
+- 🌱 I’m currently learning Three.js
+- 👯 I’m looking to collaborate on Flutter, Laravel, MERN and ThreeJS 
+- 🤔 I’m looking for help with ThreeJS
 - 💬 Ask me about Anything 
 - ⚡ Fun fact: I might be a musician too 
 
