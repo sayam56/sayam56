@@ -6,7 +6,7 @@
   <img width="900px" src="assets/gifs/header.gif" />
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sayam56.sayam56) ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C031%20hrs%2014%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sayam56.sayam56) ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C031%20hrs%2014%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 ## Hi there 👋, I'm Ali Iktider Sayam
 
