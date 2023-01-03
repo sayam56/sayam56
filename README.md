@@ -67,8 +67,7 @@ Find out more about me & feel free to connect with me:
 
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sayam56&theme=material-palenight&mode=weekly)](https://git.io/streak-stats)
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sayam56&hide_border=true&layout=compact&theme=material-palenight" />
+  <img height="200px" src="[https://github-readme-streak-stats.herokuapp.com/?user=sayam56&hide_border=true&layout=compact&theme=material-palenight](https://github-readme-streak-stats.herokuapp.com?user=sayam56&theme=material-palenight&mode=weekly)" />
 </p>
 
 ## Find My Online Resume <a href="https://aisayam.com/">HERE</a>
