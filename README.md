@@ -70,4 +70,4 @@ Find out more about me & feel free to connect with me:
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=sayam56&theme=material-palenight&mode=weekly" />
 </p>
 
-## Find My Online Resume <a href="https://resume.aisayam.com/">HERE</a>
+## Find My Online Resume <a href="https://resume.aisayam.com/" target='_blank'>HERE</a>
