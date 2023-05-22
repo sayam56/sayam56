@@ -56,10 +56,10 @@ Find out more about me & feel free to connect with me:
 
 
 
-- 🔭 I’m currently working on Growing My Tech Start-Up
-- 🌱 I’m currently learning Three.js
-- 👯 I’m looking to collaborate on Flutter, Laravel, MERN and ThreeJS 
-- 🤔 I’m looking for help with ThreeJS
+- 🔭 I’m currently looking for opportunities to work as Test Automation Engineer
+- 🌱 I’m currently learning Cypress
+- 👯 I’m looking to collaborate on Flutter, Laravel, MERN.
+- 🤔 I’m looking for help with Cypress
 - 💬 Ask me about Anything 
 - ⚡ Fun fact: I might be a musician too 
 
