@@ -10,7 +10,7 @@
 
 ## Hi there 👋, I'm Ali Iktider Sayam
 
-I am a software engineer with strong technical proficiency and proven work experience in Automation Testing and Cross Platform Mobile Application Development.
+I am a software engineer with strong technical proficiency and proven work experience in Software Test Automation, Web Development and Cross Platform Mobile Application Development.
 
 Find out more about me & feel free to connect with me:
 
@@ -70,4 +70,4 @@ Find out more about me & feel free to connect with me:
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=sayam56&theme=material-palenight&mode=weekly" />
 </p>
 
-## 🔭 Find My Portfolio And Resume <a href="https://resume.aisayam.com/" target="_blank">HERE</a>
+## 🔭 Find My Portfolio <a href="https://www.aisayam.com/" target="_blank">HERE</a> And Resume <a href="https://resume.aisayam.com/" target="_blank">HERE</a>
